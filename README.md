@@ -285,7 +285,7 @@
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) -  An information provider app for aid workers (using Rails 4.0).
 - [redmine](https://github.com/edavis10/redmine) - A project management app (using Rails 5.2). - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - (using Rails 4.0).
-- [reservations](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth_africa:](http://yalestc.github.io/reservations/)
+84. [reservations](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth_africa:](http://yalestc.github.io/reservations/)
 - [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0). - [:earth_africa:](https://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 6.0). - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
