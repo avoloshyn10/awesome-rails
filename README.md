@@ -276,7 +276,7 @@
 - [opensourcefriday](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth_africa:](https://opensourcefriday.com)
 - [otwarchive](https://github.com/otwcode/otwarchive) -  A social networking app for fans - using Rails 5.1 - [:earth_africa:](https://archiveofourown.org)
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 4.2). - [:earth_africa:](https://pwpush.com)
-- [peatio](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
+75. [peatio](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 5.2). - [:earth_africa:](https://www.planningalerts.org.au)
 - [popHealth](https://github.com/pophealth/popHealth) -  A population health reporting app (using Rails 4.1).
 - [publify](https://github.com/publify/publify) - A blogging app (using Rails 5.2).
